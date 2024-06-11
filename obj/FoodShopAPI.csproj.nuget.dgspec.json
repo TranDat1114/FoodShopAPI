@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\FoodShopAPI.csproj": {}
+    "d:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\FoodShopAPI.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\FoodShopAPI.csproj": {
+    "d:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\FoodShopAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\FoodShopAPI.csproj",
+        "projectUniqueName": "d:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\FoodShopAPI.csproj",
         "projectName": "FoodShopAPI",
-        "projectPath": "D:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\FoodShopAPI.csproj",
+        "projectPath": "d:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\FoodShopAPI.csproj",
         "packagesPath": "C:\\Users\\PhuDatTran\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\obj\\",
+        "outputPath": "d:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PhuDatTran\\AppData\\Roaming\\NuGet\\NuGet.Config",

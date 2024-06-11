@@ -144,3 +144,4 @@ D:\Code\Out_FPT\FoodShop\Foods\FoodShopAPI\obj\Debug\net8.0\FoodShopAPI.pdb
 D:\Code\Out_FPT\FoodShop\Foods\FoodShopAPI\obj\Debug\net8.0\FoodShopAPI.genruntimeconfig.cache
 D:\Code\Out_FPT\FoodShop\Foods\FoodShopAPI\obj\Debug\net8.0\ref\FoodShopAPI.dll
 d:\Code\Out_FPT\FoodShop\Foods\FoodShopAPI\bin\Debug\net8.0\FoodShopAPI.staticwebassets.runtime.json
+d:\Code\Out_FPT\FoodShop\Foods\FoodShopAPI\obj\Debug\net8.0\FoodShopAPI.sourcelink.json

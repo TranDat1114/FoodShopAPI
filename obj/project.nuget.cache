@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wg2NPFTkeRMP3+F+ZZQvuoRq5zD76uR78sLwYhEDhPjBdWi1HuLixPuj+Xhye4UVk+QPSvmA/9aenLLRmZWOkA==",
+  "dgSpecHash": "IYniByTy+BJttwwYoiWiWgb8j13SE0ruhefu7utqy55zRRKXI7Dg5NqqAEVomWLbZfirZwS4K4WGz7srTjU6mA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\FoodShopAPI.csproj",
+  "projectFilePath": "d:\\Code\\Out_FPT\\FoodShop\\Foods\\FoodShopAPI\\FoodShopAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PhuDatTran\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PhuDatTran\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
