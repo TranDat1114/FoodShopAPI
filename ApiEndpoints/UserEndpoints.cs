@@ -18,7 +18,7 @@ public static class UserEndpoints
             var result = await userManager.CreateAsync(user, userRegisterDTO.Password);
             if (result.Succeeded)
             {
-                await userManager.AddToRoleAsync(user, SD.Admin);
+                await userManager.AddToRoleAsync(user, SD.User);
             }
             if (!result.Succeeded)
             {
