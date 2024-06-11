@@ -13,10 +13,13 @@ public static class UserEndpoints
             {
                 Email = userRegisterDTO.Email,
                 UserName = userRegisterDTO.UserName,
-                PhoneNumber = userRegisterDTO.PhoneNumber,
-                Role = SD.User
+                PhoneNumber = userRegisterDTO.PhoneNumber
             };
             var result = await userManager.CreateAsync(user, userRegisterDTO.Password);
+            if (result.Succeeded)
+            {
+                await userManager.AddToRoleAsync(user, SD.Admin);
+            }
             if (!result.Succeeded)
             {
                 return Results.BadRequest(result.Errors);
