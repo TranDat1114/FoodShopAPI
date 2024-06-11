@@ -22,7 +22,6 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-
 # Visual Studio 2015 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
@@ -287,3 +286,7 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+obj/Debug/net8.0/FoodShopAPI.AssemblyInfo.cs
+obj/Debug/net8.0/FoodShopAPI.AssemblyInfoInputs.cache
+obj/Debug/net8.0/FoodShopAPI.GeneratedMSBuildEditorConfig.editorconfig
